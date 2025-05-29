@@ -1,0 +1,6 @@
+# Ignore the Firebase service account key file
+dragon-down-firebase-adminsdk-fbsvc-b739989f75.json
+
+# Optionally ignore environment files if used for secrets
+.env
+test.py
